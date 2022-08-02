@@ -4,11 +4,11 @@ Simple python script which detects objects using the YOLOv5 algorithm from the c
 Camera video is provided by OpenCV and object detection model (YOLOv5) by PyTorch.
 The script will automatically download the YOLOv5 model, and also is possible to choose which model will be used. 
 Available models:
-- 'yolov5n'
-- 'yolov5s'
-- 'yolov5m'
-- 'yolov5l'
-- 'yolov5x'
+- yolov5n
+- yolov5s
+- yolov5m
+- yolov5l
+- yolov5x
 
 ## Install
 ```shell
